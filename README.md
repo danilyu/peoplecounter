@@ -18,3 +18,5 @@ Step 7. OpenCV Machinelearning 알고리즘 적용 인식 기능 테스트
 Step 8. 서버(goorm 사용) 구축/기본기능 테스트
 Step 9. Yolov3 설치 및 기본 인식 기능 테스트
 Step 10. 응용을 위한 코딩/시험 - YOLOv3 or v4 + Deep Sort 셋팅 / 기능 구현
+
+![image](https://user-images.githubusercontent.com/77879548/147557691-de8cd7a9-907c-4b8b-8aaa-02a47a0e2bdb.png)
