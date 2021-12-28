@@ -21,7 +21,7 @@ Step 5. Python, OpenCV 등 설치/기본테스트
 
 Step 6. 카메라 설치/테스트
 
- -testCamera.py
+   : testCamera.py
  
 Step 7. OpenCV Machinelearning 알고리즘 적용 인식 기능 테스트
 
