@@ -11,9 +11,6 @@ def faceDetect():
     cap = cv2.VideoCapture(0)
     cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1024)
     cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 768)
-    width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
-    height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-    print(width, height)
     if cap.isOpened():
         cv2.namedWindow("Face Detection Window", cv2.WINDOW_AUTOSIZE)
 
